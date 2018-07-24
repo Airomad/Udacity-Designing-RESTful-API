@@ -18,3 +18,5 @@ A layer serves the layer above it and is served by the layer below it. For examp
 - [Application Layer](https://en.wikipedia.org/wiki/Application_layer)
 
 ## Useful links:
+- [Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+- [REST, where’s my state?](https://ruben.verborgh.org/blog/2012/08/24/rest-wheres-my-state/)
